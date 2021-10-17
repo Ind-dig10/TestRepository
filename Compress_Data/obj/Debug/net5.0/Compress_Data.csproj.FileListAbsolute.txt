@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\bin\Debug\net5.0\Compress_Data.exe
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\bin\Debug\net5.0\Compress_Data.deps.json
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\bin\Debug\net5.0\Compress_Data.runtimeconfig.json
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\bin\Debug\net5.0\Compress_Data.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\bin\Debug\net5.0\Compress_Data.dll
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\bin\Debug\net5.0\ref\Compress_Data.dll
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\bin\Debug\net5.0\Compress_Data.pdb
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\obj\Debug\net5.0\Compress_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\obj\Debug\net5.0\Compress_Data.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\obj\Debug\net5.0\Compress_Data.AssemblyInfo.cs
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\obj\Debug\net5.0\Compress_Data.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\obj\Debug\net5.0\Compress_Data.dll
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\obj\Debug\net5.0\ref\Compress_Data.dll
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\obj\Debug\net5.0\Compress_Data.pdb
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\obj\Debug\net5.0\Compress_Data.genruntimeconfig.cache
+C:\Users\andre\source\repos\Compress_Data\Compress_Data\obj\Debug\net5.0\Compress_Data.csproj.AssemblyReference.cache
